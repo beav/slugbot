@@ -10,7 +10,8 @@
             `""""""~'`                `._      _,-`
                                          """"""
 
-= SLUGBOT =
+SLUGBOT
+=======
 
 It's an irc bot. written in go. Maybe it will do something useful at some point?
 That would sure be nice!
